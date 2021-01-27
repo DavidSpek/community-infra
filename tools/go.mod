@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	github.com/ghodss/yaml v1.0.0
-	github.com/go-logr/logr v0.2.1
+	github.com/go-logr/logr v0.4.0
 	github.com/go-logr/zapr v0.2.0
 	github.com/spf13/cobra v1.1.1
 	go.uber.org/zap v1.16.0
